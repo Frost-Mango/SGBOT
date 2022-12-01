@@ -1,0 +1,3 @@
+API_TOKEN = 'YOURTOKEN'
+LOCALIZATION_DICTIONARY = 'localisation.bin'
+LOCALIZATION_TEXT = 'localisation.txt'

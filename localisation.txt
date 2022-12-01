@@ -1,0 +1,14 @@
+#RESPONCES
+Responce_await_date:0Введите дату(формат dd.mm.yy)
+Responce_await_task_name:0Введите название задания
+Responce_await_task_type:0Выберите тип задания\nкогда-нибудь, когда мы получим доступ к учительскому аккаунту мы сделаем здесь клавиатуру со всеми типами заданий, пока работает только КР = Контрольная работа
+Responce_await_mark_type:0Выберите тип выставления оценки
+
+#BUTTONS
+Button_mark_1:01️⃣
+Button_mark_2:02️⃣
+Button_mark_3:03️⃣
+Button_mark_4:04️⃣
+Button_mark_5:05️⃣
+Button_mark_type_1:0Вручную
+Button_mark_type_2:0Фотография журнала\n‼ТОЧНОСТЬ НЕ ГАРАНТИРОВАНА‼
