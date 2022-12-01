@@ -1,4 +1,3 @@
-from distutils.log import error
 import pickle
 import config
 def __dump_localisation():
@@ -25,7 +24,6 @@ def __main():
 
     for lk in dct_addition:
         dct[lk] = dct_addition[lk]
-    print(dct)
     with open(config.LOCALIZATION_DICTIONARY, 'wb') as wf:
         pickle.dump(dct, wf)
 
@@ -33,4 +31,5 @@ def update_localisation_json():
     __main()
 
 if __name__ == "__main__":
+    print("sucess")
     __main()
